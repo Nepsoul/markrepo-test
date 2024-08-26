@@ -5,26 +5,86 @@
 - We will follow the fullstack academy curriculum
 - In this curriculum, we mainly focus in fundamental of javascript
 
-### How to start
+## How to start
 
-- Log in to access the course materials: 
+<h2>1. Sign up to the course materials:</h2> 
 
-1. Intro to Coding
-- How to sign up: go to https://www.fullstackacademy.com/intro-to-coding, fill in your first name, last name, email, phone number, zip code (please put the value ‘11111’)
+- Sign up to Bootcamp Prep: go to https://www.fullstackacademy.com/bootcamp-prep-online, fill in your first name, last name, email, phone number, zip code (please put the value ‘11111’)
 - how to login: https://welcome.fullstackacademy.com
 
-2. Bootcamp Prep
-- How to sign up: go to https://www.fullstackacademy.com/bootcamp-prep-online, fill in your first name, last name, email, phone number, zip code.  Please use the same information (especially email) that you used to sign up for 1. Intro to Coding
+---
+
+<details><summary><h2 style="display:inline">2. Sample Calander for Pre-Bootcamp</h2></summary>
+
+- This is a sample calander for the pre-bootcamp. You can use this template to create your own customized study schedule.
+
+- Recommended Study Plan: Dedicate at least 4 hours per day to each topic: 2 hours for watching lecture videos and 2 hours for practicing exercises. By following this plan, you can complete all exercises in approximately 13 days (2 weeks).
+
+- Alternative Study Plan-1 (2 Hours Per Day): If you can only commit to 2 hours daily, allocate one day for understanding the lecture videos and the next day for practicing exercises. In this case, you will need around 26 days(approximately 1 month) to finish all exercises.
+
+- WAlternative Study Plan-2 (1 Day Per Week): If you prefer studying one day per week, dedicate 4 hours on that day. With this approach, you can cover 1 topic per week, resulting in a total of 13 weeks(approximately 3 month) to complete the exercises.
+
+## Suggested sample schedule
+
+
+| **Day**  | **4-Hours Daily Plan**(2 Weeks) | **2-Hours Daily Plan**(3 Weeks) | **1-Day Weekly Plan**(13-Weeks) |
+| --- | --------------- | --------------- | --------------- |
+| Day 1 | Topic 1: Lecture Video & Exercises | Topic 1: Lecture Video | Topic 1: Video & Exercises |
+| Day 2 | Topic 2: Lecture Video & Exercises | Topic 1: Exercises | - |
+| Day 3 | Topic 3: Lecture Video & Exercises | Topic 2: Lecture Video | - |
+| Day 4 | Topic 4: Lecture Video & Exercises | Topic 2: Exercises | - |
+| Day 5 | Topic 5: Lecture Video & Exercises | Topic 3: Lecture Video | - |
+| Day 6 | Topic 6: Lecture Video & Exercises | Topic 3: Exercises | - |
+| Day 7 | Topic 7: Lecture Video & Exercises | Topic 4: Lecture Video | Topic 2: Lecture Video & Exercises |
+| Day 8 | Topic 8: Lecture Video & Exercises | Topic 4: Exercises | - |
+| Day 9 | Topic 9: Lecture Video & Exercises | Topic 5: Lecture Video | - |
+| Day 10 | Topic 10: Lecture Video & Exercises | Topic 5: Exercises | - |
+| Day 11 | Topic 11: Lecture Video & Exercises  | Topic 6: Lecture Video | - |
+| Day 12 | Topic 12: Lecture Video & Exercises | Topic 6: Exercises | - |
+| Day 13 | Topic 13: Lecture Video & Exercises | Topic 7: Lecture Video | - |
+| Day 14 | - | Topic 7: Exercises | Topic 3: Lecture Video & Exercises |
+| Day 15 | - | Topic 8: Lecture Video | - |
+| Day 16 | - | Topic 8: Exercises | - |
+| Day 17 | - | Topic 9: Lecture Video | - |
+| Day 18 | - | Topic 9: Exercises | - |
+| Day 19 | - | Topic 10: Lecture Video | - |
+| Day 20 | - | Topic 10: Exercises | - |
+| Day 21 | - | Topic 11: Lecture Video | Topic 4: Lecture Video & Exercises |
+| Day 22 | - | Topic 11: Exercises | - |
+| Day 23 | - | Topic 12: Lecture Video | - | 
+| Day 24 | - | Topic 12: Exercises | - |
+| Day 25 | - | Topic 13: Lecture Video | - |
+| Day 26 | - | Topic 13: Exercises | - |
+| Day 27 | - | - | - |
+| Day 28 | - | - | Topic 5: Lecture Video & Exercises |
+|... |... |... |... |
+| Day 35 | - | - | Topic 6: Lecture Video & Exercises |
+|... |... |... |... |
+| Day 42 | - | - | Topic 7: Lecture Video & Exercises |
+|... |... |... |... |
+| Day 49 | - | - | Topic 8: Lecture Video & Exercises |
+|... |... |... |... |
+| Day 56 | - | - | Topic 9: Lecture Video & Exercises |
+|... |... |... |... |
+| Day 63 | - | - | Topic 10: Lecture Video & Exercises |
+|... |... |... |... |
+| Day 70 | - | - | Topic 11: Lecture Video & Exercises |
+|... |... |... |... |
+| Day 77 | - | - | Topic 12: Lecture Video & Exercises |
+|... |... |... |... |
+| Day 84 | - | - | Topic 13: Lecture Video & Exercises |
+
+</details>
 
 ---
 
-## For queries
+<h2>3. For queries</h2>
 
-- If you have any queries regarding course or would like to join TEJ discord community, please email us at tej.fellowship@gmail.com. Mention the subject as "Request to join TEJ Discord Community".
-
+- If you have any queries regarding course or would like to join TEJ discord community, please email us at tej.fellowship@gmail.com. Mention the subject as "Request to join TEJ Discord Community" after mailing us we will provide you additional information.
 
 ---
 
+<h2>4. Course guide</h2>
 <details><summary><h2 style="display:inline">Topic 1: Values and types, Expressions, variables and TDD</h2></summary>
 
 **_WE-WILL-LEARN:_**
@@ -241,62 +301,3 @@
 
 ---
 
-## Sample Calander for Pre-Bootcamp
-
-- This is a sample calander for the pre-bootcamp. You can use this template to create your own customized study schedule.
-
-- Recommended Study Plan: Dedicate at least 4 hours per day to each topic: 2 hours for watching lecture videos and 2 hours for practicing exercises. By following this plan, you can complete all exercises in approximately 13 days (2 weeks).
-
-- Alternative Study Plan-1 (2 Hours Per Day): If you can only commit to 2 hours daily, allocate one day for understanding the lecture videos and the next day for practicing exercises. In this case, you will need around 26 days(approximately 1 month) to finish all exercises.
-
-- WAlternative Study Plan-2 (1 Day Per Week): If you prefer studying one day per week, dedicate 4 hours on that day. With this approach, you can cover 1 topic per week, resulting in a total of 13 weeks(approximately 3 month) to complete the exercises.
-
-## Suggested sample schedule
-
-
-| **Day**  | **4-Hours Daily Plan**(2 Weeks) | **2-Hours Daily Plan**(3 Weeks) | **1-Day Weekly Plan**(13-Weeks) |
-| --- | --------------- | --------------- | --------------- |
-| Day 1 | Topic 1: Lecture Video & Exercises | Topic 1: Lecture Video | Topic 1: Video & Exercises |
-| Day 2 | Topic 2: Lecture Video & Exercises | Topic 1: Exercises | - |
-| Day 3 | Topic 3: Lecture Video & Exercises | Topic 2: Lecture Video | - |
-| Day 4 | Topic 4: Lecture Video & Exercises | Topic 2: Exercises | - |
-| Day 5 | Topic 5: Lecture Video & Exercises | Topic 3: Lecture Video | - |
-| Day 6 | Topic 6: Lecture Video & Exercises | Topic 3: Exercises | - |
-| Day 7 | Topic 7: Lecture Video & Exercises | Topic 4: Lecture Video | Topic 2: Lecture Video & Exercises |
-| Day 8 | Topic 8: Lecture Video & Exercises | Topic 4: Exercises | - |
-| Day 9 | Topic 9: Lecture Video & Exercises | Topic 5: Lecture Video | - |
-| Day 10 | Topic 10: Lecture Video & Exercises | Topic 5: Exercises | - |
-| Day 11 | Topic 11: Lecture Video & Exercises  | Topic 6: Lecture Video | - |
-| Day 12 | Topic 12: Lecture Video & Exercises | Topic 6: Exercises | - |
-| Day 13 | Topic 13: Lecture Video & Exercises | Topic 7: Lecture Video | - |
-| Day 14 | - | Topic 7: Exercises | Topic 3: Lecture Video & Exercises |
-| Day 15 | - | Topic 8: Lecture Video | - |
-| Day 16 | - | Topic 8: Exercises | - |
-| Day 17 | - | Topic 9: Lecture Video | - |
-| Day 18 | - | Topic 9: Exercises | - |
-| Day 19 | - | Topic 10: Lecture Video | - |
-| Day 20 | - | Topic 10: Exercises | - |
-| Day 21 | - | Topic 11: Lecture Video | Topic 4: Lecture Video & Exercises |
-| Day 22 | - | Topic 11: Exercises | - |
-| Day 23 | - | Topic 12: Lecture Video | - | 
-| Day 24 | - | Topic 12: Exercises | - |
-| Day 25 | - | Topic 13: Lecture Video | - |
-| Day 26 | - | Topic 13: Exercises | - |
-| Day 27 | - | - | - |
-| Day 28 | - | - | Topic 5: Lecture Video & Exercises |
-|... |... |... |... |
-| Day 35 | - | - | Topic 6: Lecture Video & Exercises |
-|... |... |... |... |
-| Day 42 | - | - | Topic 7: Lecture Video & Exercises |
-|... |... |... |... |
-| Day 49 | - | - | Topic 8: Lecture Video & Exercises |
-|... |... |... |... |
-| Day 56 | - | - | Topic 9: Lecture Video & Exercises |
-|... |... |... |... |
-| Day 63 | - | - | Topic 10: Lecture Video & Exercises |
-|... |... |... |... |
-| Day 70 | - | - | Topic 11: Lecture Video & Exercises |
-|... |... |... |... |
-| Day 77 | - | - | Topic 12: Lecture Video & Exercises |
-|... |... |... |... |
-| Day 84 | - | - | Topic 13: Lecture Video & Exercises |
