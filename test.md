@@ -1,28 +1,26 @@
 # 🔥 TEJ Pre-Bootcamp
 
-### Course material
-
 - We will follow the fullstack academy curriculum
 - In this curriculum, we mainly focus in fundamental of javascript
 
-## How to start
+## How to 
 
-<h2>1. Sign up to the course materials:</h2> 
+<h3>1. Get access to the course materials:</h3> 
 
-- Sign up to Bootcamp Prep: go to https://www.fullstackacademy.com/bootcamp-prep-online, fill in your first name, last name, email, phone number, zip code (please put the value ‘11111’)
+- Sign up: go to https://www.fullstackacademy.com/bootcamp-prep-online, fill in your first name, last name, email, phone number, zip code (please put the value ‘11111’)
 - how to login: https://welcome.fullstackacademy.com
 
 ---
 
-<details><summary><h2 style="display:inline">2. Sample Calander for Pre-Bootcamp</h2></summary>
+<details><summary><h3 style="display:inline">2. Create Calendar for study plan</h3></summary>
 
-- This is a sample calander for the pre-bootcamp. You can use this template to create your own customized study schedule.
+- This is a sample calendar for the pre-bootcamp. You can use this template to create your own customized study schedule.
 
 - Recommended Study Plan: Dedicate at least 4 hours per day to each topic: 2 hours for watching lecture videos and 2 hours for practicing exercises. By following this plan, you can complete all exercises in approximately 13 days (2 weeks).
 
 - Alternative Study Plan-1 (2 Hours Per Day): If you can only commit to 2 hours daily, allocate one day for understanding the lecture videos and the next day for practicing exercises. In this case, you will need around 26 days(approximately 1 month) to finish all exercises.
 
-- WAlternative Study Plan-2 (1 Day Per Week): If you prefer studying one day per week, dedicate 4 hours on that day. With this approach, you can cover 1 topic per week, resulting in a total of 13 weeks(approximately 3 month) to complete the exercises.
+- Alternative Study Plan-2 (1 Day Per Week): If you prefer studying one day per week, dedicate 4 hours on that day. With this approach, you can cover 1 topic per week, resulting in a total of 13 weeks(approximately 3 month) to complete the exercises.
 
 ## Suggested sample schedule
 
@@ -78,14 +76,14 @@
 
 ---
 
-<h2>3. For queries</h2>
+<h3>3. Get help</h3>
 
-- If you have any queries regarding course or would like to join TEJ discord community, please email us at tej.fellowship@gmail.com. Mention the subject as "Request to join TEJ Discord Community" after mailing us we will provide you additional information.
+- Would like to join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject as "Request to join TEJ Discord Community". We will provide you additional information.
 
 ---
 
-<h2>4. Course guide</h2>
-<details><summary><h2 style="display:inline">Topic 1: Values and types, Expressions, variables and TDD</h2></summary>
+<h3>4. Course guide</h3>
+<details><summary><h3 style="display:inline">Topic 1: Values and types, Expressions, variables and TDD</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -99,7 +97,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 2: Control flow</h3></summary>
+<details><summary><h3 style="display:inline">Topic 2: Control flow</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -110,7 +108,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 3: Function, problem set</h2></summary>
+<details><summary><h3 style="display:inline">Topic 3: Function, problem set</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -124,7 +122,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 4: Loops and debugging</h2></summary>
+<details><summary><h3 style="display:inline">Topic 4: Loops and debugging</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -141,7 +139,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 5: Coercion and truthiness</h2></summary>
+<details><summary><h3 style="display:inline">Topic 5: Coercion and truthiness</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -154,7 +152,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 6: Scope</h2></summary>
+<details><summary><h3 style="display:inline">Topic 6: Scope</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -168,7 +166,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 7: Array-i</h2></summary>
+<details><summary><h3 style="display:inline">Topic 7: Array-i</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -190,7 +188,7 @@
 ---
 
 
-<details><summary><h2 style="display:inline">Topic 8: Array-ii</h2></summary>
+<details><summary><h3 style="display:inline">Topic 8: Array-ii</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -208,7 +206,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 9: Objects</h2></summary>
+<details><summary><h3 style="display:inline">Topic 9: Objects</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -230,7 +228,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 10: Object methods</h2></summary>
+<details><summary><h3 style="display:inline">Topic 10: Object methods</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -247,7 +245,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 11: PBV vs PBR</h2></summary>
+<details><summary><h3 style="display:inline">Topic 11: PBV vs PBR</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -267,7 +265,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 12: High order function i</h2></summary>
+<details><summary><h3 style="display:inline">Topic 12: High order function i</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
@@ -285,7 +283,7 @@
 
 ---
 
-<details><summary><h2 style="display:inline">Topic 13: High order function ii</h2></summary>
+<details><summary><h3 style="display:inline">Topic 13: High order function ii</h3></summary>
 
 **_WE-WILL-LEARN:_**
 
