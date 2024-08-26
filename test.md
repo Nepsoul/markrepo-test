@@ -8,7 +8,7 @@
 <h3>1. Get access to the course materials:</h3> 
 
 - Sign up: go to https://www.fullstackacademy.com/bootcamp-prep-online, fill in your first name, last name, email, phone number, zip code (please put the value ‘11111’)
-- how to login: https://welcome.fullstackacademy.com
+- Login: https://welcome.fullstackacademy.com
 
 ---
 
@@ -78,7 +78,7 @@
 
 <h3>3. Get help</h3>
 
-- Would like to join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject as "Request to join TEJ Discord Community". We will provide you additional information.
+- Would like to join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject "Request to join TEJ Discord Community". We will provide you additional information.
 
 ---
 
