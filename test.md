@@ -1,7 +1,7 @@
 # 🔥 TEJ Pre-Bootcamp
 
-- We will follow the fullstack academy curriculum
-- In this curriculum, we mainly focus in fundamental of javascript
+- We will be following the Fullstack Academy curriculum.
+- This curriculum mainly focus on fundamentals of Javascript.
 
 ## How to 
 
@@ -78,11 +78,11 @@
 
 <h3>3. Get help</h3>
 
-- To join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject ["Request to join TEJ PBC Discord Community"](tej.fellowship@gmail.com). We will provide you additional information.
+- To join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject ["Request to join TEJ PBC Discord Community"](tej.fellowship@gmail.com). We will email you additional information.
 
 ---
 
-<h3>4. Follow the course guide</h3>
+<details><summary><h3 style="display:inline">4. Follow the course guide</h3></summary>
 <details><summary><h3 style="display:inline">Topic 1: Values and types, Expressions, variables and TDD</h3></summary>
 
 **_WE-WILL-LEARN:_**
@@ -298,4 +298,4 @@
 </details>
 
 ---
-
+</details>
