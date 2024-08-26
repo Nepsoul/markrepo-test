@@ -78,11 +78,11 @@
 
 <h3>3. Get help</h3>
 
-- Would like to join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject "Request to join TEJ Discord Community". We will provide you additional information.
+- To join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject ["Request to join TEJ PBC Discord Community"](tej.fellowship@gmail.com). We will provide you additional information.
 
 ---
 
-<h3>4. Course guide</h3>
+<h3>4. Follow the course guide</h3>
 <details><summary><h3 style="display:inline">Topic 1: Values and types, Expressions, variables and TDD</h3></summary>
 
 **_WE-WILL-LEARN:_**
