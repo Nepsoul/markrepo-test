@@ -78,7 +78,7 @@
 
 <h3>3. Get help</h3>
 
-- To join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject ["Request to join TEJ PBC Discord Community"](https://tej.fellowship@gmail.com). We will email you additional information.
+- To join TEJ discord community, please email us at tej.fellowship@gmail.com with the subject <a href="mailto:tej.fellowship@gmail.com?subject=Request to join TEJ PBC Discord Community">Request to join TEJ PBC Discord Community</a>. We will email you additional information.
 
 ---
 
